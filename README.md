@@ -1,6 +1,6 @@
 # maval
 
-Top 10 Finalists
+<b>Top 10 Finalists</b>
 
 Team MAVAL in Ellipsis Hackathon 2020. The website can be accessed at http://3.0.200.88/
 
